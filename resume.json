@@ -1,0 +1,132 @@
+{
+  "bio": {
+    "firstName": "Valentin",
+    "lastName": "Menardie",
+    "email": {
+      "personal": "valentin.menardie@gmail.com"
+    },
+    "phone": {
+      "personal": "0620421033"
+    },
+    "summary": "I make stuff on the web",
+    "location": {
+      "city": "Reims",
+      "countryCode": "FR"
+    },
+    "websites": {
+      "blog": "http://menardie.fr"
+    },
+    "profiles": {
+      "github": "valanz",
+      "twitter": "vmnrd",
+      "dribbble": "vmnrd"
+    }
+  },
+  "work": [
+    {
+      "company": "Just Art",
+      "position": "Web developer",
+      "website": "http://just-art.fr",
+      "startDate": "2013-09-15",
+      "endDate": "2014-08-29",
+      "summary": "Développement de sites et d’applications web, création d’affiches et d’identités visuelles. Gestion de projets internes et clients."
+    },
+    {
+      "company": "CEGQ",
+      "position": "Web developer",
+      "website": "http://cegq.com",
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-15",
+      "summary": "Conceptions d’applications web, de branding et de documents print pour les différents membres de la CEGQ."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut Universitaire et Technologique de Troyes",
+      "startDate": "2013-10-01",
+      "endDate": "2014-08-29",
+      "area": "Métiers de l’Internet et du Multimédia",
+      "studyType": "Bachelor"
+    },
+    {
+      "institution": "University of the West of Scotland",
+      "startDate": "2012-12-01",
+      "endDate": "2013-06-01",
+      "area": "Web and Mobile development"
+    },
+    {
+      "institution": "Institut Universitaire et Technologique de Troyes",
+      "startDate": "2011-09-01",
+      "endDate": "2013-08-29",
+      "area": "Services et Réseaux de Communication"
+    }
+  ],
+  "skills": [
+    {
+      "name": "langages",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "SQL",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Intégration",
+      "level": "Master",
+      "keywords": [
+        "HTML 5",
+        "CSS 3"
+      ]
+    },
+    {
+      "name": "Frameworks / outils",
+      "level": "Master",
+      "keywords": [
+        "Symfony",
+        "Jquery",
+        "Sinatra"
+      ]
+    },
+    {
+      "name": "Versionning",
+      "level": "Master",
+      "keywords": [
+        "GIT"
+      ]
+    },
+    {
+      "name": "O.S.",
+      "level": "Master",
+      "keywords": [
+        "Macintosh",
+        "Debian",
+        "Windows"
+      ]
+    },
+    {
+      "name": "O.S.",
+      "level": "Master",
+      "keywords": [
+        "Macintosh",
+        "Debian",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Graphisme",
+      "level": "Master",
+      "keywords": [
+        "Suite Adobe"
+      ]
+    },
+    {
+      "name": "Langues",
+      "level": "Master",
+      "keywords": [
+        "Anglais (B2)",
+        "Espagnol (B1)"
+      ]
+    }
+  ]
+}
